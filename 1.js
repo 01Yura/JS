@@ -13,6 +13,8 @@ colors.push("gray")
 document.write(colors[0], " ", colors[3])
 */
 
-"use strict";
-let = "Векна";
-console.log(creature);
+//"use strict";
+//let = "Векна";
+//console.log(creature);
+
+console.log({key1:123,key2:"qwerty"})
