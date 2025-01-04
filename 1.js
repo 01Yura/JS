@@ -17,4 +17,21 @@ document.write(colors[0], " ", colors[3])
 //let = "Векна";
 //console.log(creature);
 
-console.log({key1:123,key2:"qwerty"})
+// console.log({key1:123,key2:"qwerty"})
+
+let fruit = "яблоко";
+let message = "Я люблю ";
+
+switch (fruit) {
+  case "банан":
+  case "яблоко":
+    message += "есть ";
+  case "апельсин":
+    message += "сочный ";
+  case "виноград":
+    message += "фрукт.";
+    console.log(message);
+    break;
+  default:
+    console.log("Я не люблю этот фрукт.");
+}
