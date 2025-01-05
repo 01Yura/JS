@@ -1,6 +1,6 @@
 // Создаем 2 обьекта на основе расширенных классов
-const myCar=new Car("Passenger car", "Lada", "Black", "Standart", "Used", "1000", "Sedan")
-const myMoto=new Motocycle("Motocycle", "Minsk", "Red", "Standart", "New", "500", "Sportbike")
+const myCar=new Car("Sosika", "Passenger car", "Lada", "Black", "Standart", "Used", "1000", "Sedan")
+const myMoto=new Motocycle("Pidrillo", "Motocycle", "Minsk", "Red", "Standart", "New", "500", "Sportbike")
 
 // Проверяем, что обьекты создались
 console.log(myCar)
