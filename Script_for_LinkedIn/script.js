@@ -58,3 +58,4 @@ function clickButtonsWithDelay(maxRetries = 3) {
 clickButtonsWithDelay(); // Запуск с 3 повторными проверками
 
 // Ауф, я подвердил твои скилы через кнопку "Endorse", если будет время, подтверди и мои. Буду премного благодарен. Если лень нажимать, вот скрипт для автоматизации данного процесса через браузер.
+// https://github.com/01Yura/JS/blob/c27d762a93dae16b66409c4c7f9f19bb96915ce7/Script_for_LinkedIn/script.js
